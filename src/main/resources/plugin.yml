@@ -1,0 +1,6 @@
+name: ${project.name}
+main: net.nekonekoserver.nekoneko.stacker.NCStacker
+version: ${project.version}
+permissions:
+    ncstacker.use:
+        default: op
